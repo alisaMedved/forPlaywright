@@ -1,0 +1,78 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "questions.spec.ts",
+    "children" : [ {
+      "name" : "Questions",
+      "children" : [ {
+        "name" : "Get question",
+        "uid" : "a3c42aceeeb62563",
+        "parentUid" : "5ece7bdcd00e5281d992eeeeb5042c6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677233429658,
+          "stop" : 1677233431242,
+          "duration" : 1584
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Get questions",
+        "uid" : "8567092b366540be",
+        "parentUid" : "5ece7bdcd00e5281d992eeeeb5042c6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677233431248,
+          "stop" : 1677233431724,
+          "duration" : 476
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Create question",
+        "uid" : "68e03d051ddb4e1c",
+        "parentUid" : "5ece7bdcd00e5281d992eeeeb5042c6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677233431726,
+          "stop" : 1677233432225,
+          "duration" : 499
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Update question",
+        "uid" : "f9fd5792e6989c0a",
+        "parentUid" : "5ece7bdcd00e5281d992eeeeb5042c6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677233432227,
+          "stop" : 1677233433652,
+          "duration" : 1425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Delete question",
+        "uid" : "f3351b7df63da083",
+        "parentUid" : "5ece7bdcd00e5281d992eeeeb5042c6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677233433656,
+          "stop" : 1677233435549,
+          "duration" : 1893
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ece7bdcd00e5281d992eeeeb5042c6f"
+    } ],
+    "uid" : "7ad689d111db14a4212f26197eb3753b"
+  } ]
+}

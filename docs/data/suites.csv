@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 24 13:10:29 MSK 2023","Fri Feb 24 13:10:31 MSK 2023","1584","","questions.spec.ts","Questions","","","Get question",""
+"passed","Fri Feb 24 13:10:32 MSK 2023","Fri Feb 24 13:10:33 MSK 2023","1425","","questions.spec.ts","Questions","","","Update question",""
+"passed","Fri Feb 24 13:10:33 MSK 2023","Fri Feb 24 13:10:35 MSK 2023","1893","","questions.spec.ts","Questions","","","Delete question",""
+"passed","Fri Feb 24 13:10:31 MSK 2023","Fri Feb 24 13:10:32 MSK 2023","499","","questions.spec.ts","Questions","","","Create question",""
+"passed","Fri Feb 24 13:10:31 MSK 2023","Fri Feb 24 13:10:31 MSK 2023","476","","questions.spec.ts","Questions","","","Get questions",""
